@@ -16,37 +16,37 @@
 ## 📦 사용한 에셋 및 라이선스 정보
 
 ### 1. Dirty Wood Floor (낡은 나무 바닥)
-- 출처: https://ambientcg.com/view?id=WoodFloor044
+- 출처: [WoodFloor044](https://ambientcg.com/view?id=WoodFloor044)
 - 라이선스: CC0 1.0 (퍼블릭 도메인)
 - 제작자: [ambientCG](https://ambientcg.com/)
 
 ### 2. Painted Plaster Wall (낡고 얼룩진 벽 질감)
-- 출처: https://ambientcg.com/view?id=PaintedWall002
+- 출처: [PaintedWall002](https://ambientcg.com/view?id=PaintedWall002)
 - 라이선스: CC0 1.0 (퍼블릭 도메인)
 - 제작자: [ambientCG](https://ambientcg.com/)
 
 ### 3. Concrete Ceiling (얼룩진 시멘트 천장)
-- 출처: https://ambientcg.com/view?id=ConcreteDirty008
+- 출처: [ConcreteDiry008](https://ambientcg.com/view?id=ConcreteDirty008)
 - 라이선스: CC0 1.0 (퍼블릭 도메인)
 - 제작자: [ambientCG](https://ambientcg.com/)
 
 ### 4. Bathroom Wall Tile (욕실 벽 타일)
-- 출처: https://ambientcg.com/view?id=Tiles133C
+- 출처: [Tiles133C](https://ambientcg.com/view?id=Tiles133C)
 - 라이선스: CC0 1.0 (퍼블릭 도메인)
 - 제작자: [ambientCG](https://ambientcg.com/)
 
 ### 5. Bathroom Floor Tile (욕실 바닥 타일)
-- 출처: https://ambientcg.com/view?id=Tiles001
+- 출처: [Tiles001](https://ambientcg.com/view?id=Tiles001)
 - 라이선스: CC0 1.0 (퍼블릭 도메인)
 - 제작자: [ambientCG](https://ambientcg.com/)
 
 ### 6. Free Furniture Pack (가구 에셋 모음)
 - 출처: [Unreal Engine Marketplace](https://fab.com/s/30988ec34e44)  
 - 라이선스: 언리얼 엔진 프로젝트 내에서 사용 가능 (Epic Games Marketplace 이용 약관 준수)  
-- 제작자: Next Level 3D
+- 제작자: [Next Level 3D](https://www.fab.com/sellers/Next%20Level%203D)
 
 ### 7. Door with Handle (문 오브젝트)
-- 출처: https://fab.com/s/767112c50c61
+- 출처: [Door with handle](https://fab.com/s/767112c50c61)
 - 라이선스: CC BY 4.0 (저작자 표시 필수)
 - 제작자: [SvrMx](https://www.fab.com/sellers/SvrMx)
 
