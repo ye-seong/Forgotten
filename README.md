@@ -1,49 +1,55 @@
 # Forgotten  
 고립된 공간 속, 잊혀진 기억을 되짚는 1인칭 감성 게임 (Unreal Engine 4.27)
 
+### 🎮 인터랙션 시스템 (Interaction System)
+
+플레이어가 오브젝트를 바라본 상태에서 F 키를 누르면  
+문 열기, 아이템 획득, 의자 앉기 등 상황에 맞는 반응이 실행됩니다.
+
+- C++에서 라인트레이스 및 입력 처리
+- Blueprint 인터페이스(`BPI_Interactable`)로 오브젝트 반응 정의
+- 코드 수정 없이 다양한 오브젝트에 쉽게 확장 가능
+- 레벨 디자이너도 직접 기능 추가 가능 → 협업 효율↑
+
+---
+
 ## 📦 사용한 에셋 및 라이선스 정보
 
 ### 1. Dirty Wood Floor (낡은 나무 바닥)
 - 출처: https://ambientcg.com/view?id=WoodFloor044
 - 라이선스: CC0 1.0 (퍼블릭 도메인)
-- 제작자: ambientCG (https://ambientcg.com/)
-- 비고: 사용 시 출처 표기는 필수는 아니지만, 남겨주면 좋습니다.
+- 제작자: [ambientCG](https://ambientcg.com/)
 
 ### 2. Painted Plaster Wall (낡고 얼룩진 벽 질감)
 - 출처: https://ambientcg.com/view?id=PaintedWall002
 - 라이선스: CC0 1.0 (퍼블릭 도메인)
-- 제작자: ambientCG (https://ambientcg.com/)
-- 비고: 벽면 질감으로 사용, 자유롭게 이용 가능
+- 제작자: [ambientCG](https://ambientcg.com/)
 
 ### 3. Concrete Ceiling (얼룩진 시멘트 천장)
 - 출처: https://ambientcg.com/view?id=ConcreteDirty008
 - 라이선스: CC0 1.0 (퍼블릭 도메인)
-- 제작자: ambientCG (https://ambientcg.com/)
-- 비고: 천장용으로 사용, 자유롭게 이용 가능
+- 제작자: [ambientCG](https://ambientcg.com/)
 
 ### 4. Bathroom Wall Tile (욕실 벽 타일)
 - 출처: https://ambientcg.com/view?id=Tiles133C
 - 라이선스: CC0 1.0 (퍼블릭 도메인)
-- 제작자: ambientCG (https://ambientcg.com/)
-- 비고: 화장실 벽면용으로 사용
+- 제작자: [ambientCG](https://ambientcg.com/)
 
 ### 5. Bathroom Floor Tile (욕실 바닥 타일)
 - 출처: https://ambientcg.com/view?id=Tiles001
 - 라이선스: CC0 1.0 (퍼블릭 도메인)
-- 제작자: ambientCG (https://ambientcg.com/)
-- 비고: 화장실 바닥용으로 사용
+- 제작자: [ambientCG](https://ambientcg.com/)
 
-### 6. Flickering Light Blueprint (깜빡이는 조명 블루프린트)
-- 출처: 본 프로젝트 내 직접 제작
-- 라이선스: 본 프로젝트 전용 (저작자: [본인 이름 또는 닉네임])
-- 비고: Forgotten 전용으로 제작된 콘텐츠입니다
-
-### 7. Free Furniture Pack (가구 에셋 모음)
-- 출처: Unreal Engine Marketplace  
-- URL: https://www.unrealengine.com/marketplace/en-US/product/free-furniture-pack  
+### 6. Free Furniture Pack (가구 에셋 모음)
+- 출처: [Unreal Engine Marketplace](https://fab.com/s/30988ec34e44)  
 - 라이선스: 언리얼 엔진 프로젝트 내에서 사용 가능 (Epic Games Marketplace 이용 약관 준수)  
-- 제작자: PolyAsset3D (제작자 이름은 마켓페이지에서 확인 필요)  
-- 비고: 가구(책상, 의자 등) 모델링에 사용
+- 제작자: Next Level 3D
+
+### 7. Door with Handle (문 오브젝트)
+- 출처: https://fab.com/s/767112c50c61
+- 라이선스: CC BY 4.0 (저작자 표시 필수)
+- 제작자: [SvrMx](https://www.fab.com/sellers/SvrMx)
+
 
 ---
 
