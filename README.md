@@ -4,12 +4,12 @@
 ### 🎮 인터랙션 시스템 (Interaction System)
 
 플레이어가 오브젝트를 바라본 상태에서 F 키를 누르면  
-문 열기, 아이템 획득, 의자 앉기 등 상황에 맞는 반응이 실행됩니다.
+문 열기, 메모 읽기, 의자 앉기 등 상황에 맞는 반응이 실행됩니다.
 
 <img src="/Image/Interaction_1.png" width="350">
 <img src="/Image/Interaction_2.png" width="350">
 
-[인터랙션 영상](https://drive.google.com/file/d/1DHeN5ykPBsw1DLiUCmgb9K97GewW8Kjv/view?usp=sharing)
+[인터랙션 영상](https://drive.google.com/file/d/1XjuDbCFkr8CkCUVbwFCGjhhtP1_ChvDt/view?usp=sharing)
 - C++에서 라인트레이스 및 입력 처리
 - 코드 수정 없이 다양한 오브젝트에 쉽게 확장 가능
 - 레벨 디자이너도 직접 기능 추가 가능 → 협업 효율↑
