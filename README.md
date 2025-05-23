@@ -46,12 +46,17 @@
 ### 6. Free Furniture Pack (가구 에셋 모음)
 - 출처: [Unreal Engine Marketplace](https://fab.com/s/30988ec34e44)  
 - 라이선스: 언리얼 엔진 프로젝트 내에서 사용 가능 (Epic Games Marketplace 이용 약관 준수)  
-- 제작자: Next Level 3D
+- 제작자: [Next Level 3D](https://www.fab.com/sellers/Next%20Level%203D)
 
 ### 7. Door with Handle (문 오브젝트)
 - 출처: https://fab.com/s/767112c50c61
 - 라이선스: CC BY 4.0 (저작자 표시 필수)
 - 제작자: [SvrMx](https://www.fab.com/sellers/SvrMx)
+
+### 8. Advanced Glass Material Pack (거울)
+- 출처: [Unreal Engine Marketplace](https://www.fab.com/listings/aa73c72c-0eb9-4745-88ff-34e82e32551d)  
+- 라이선스: 언리얼 엔진 프로젝트 내에서 사용 가능 (Epic Games Marketplace 이용 약관 준수)
+- 제작자: [UV](https://www.fab.com/sellers/UB)
 
 ---
 
