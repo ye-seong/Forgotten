@@ -84,11 +84,6 @@
 
 #### **📈 스토리 진행 단계**
 
-<div align="center">
-  <img src="/Image/Chapter_1.png" width="350" alt="챕터 1">
-  <img src="/Image/Chapter_2.png" width="350" alt="챕터 2">
-</div>
-
 | 챕터 | 트리거 조건 | 주요 변화 |
 |------|-------------|-----------|
 | **Chapter 1** | 게임 시작 | 기본 탐사 모드 |
@@ -97,25 +92,27 @@
 | **Final** | 게임 재실행 | 🎭 특별 연출 모드 |
 
 <div align="center">
+  <img src="/Image/Chapter_1.png" width="350" alt="챕터 1">
+  <img src="/Image/Chapter_2.png" width="350" alt="챕터 2">
+  <p><em>1챕터 조사 완료 시 정전 및 모니터 UI 변경</em></p>
+</div>
+
+
+<div align="center">
   <img src="/Image/Chapter_3.png" width="500" alt="2챕터 조사 완료 시 게임 강제 종료">
   <p><em>2챕터 조사 완료 시 게임 강제 종료</em></p>
 </div>
 
-#### **🎭 특별 연출 시스템**
-
-**게임 재실행 시 특별한 경험:**
 
 <div align="center">
   <img src="/Image/Chapter_4.png" width="300" alt="이어하기 버튼만 남은 메뉴">
   <img src="/Image/Chapter_5.png" width="300" alt="세이브 파일 리셋">
-  <img src="/Image/Chapter_6.png" width="300" alt="페이드 아웃 연출">
+  <p><em>게임 재실행 시 이어하기 버튼만 남고, 이어하기 선택 시 세이브 파일 리셋 후 자막과 페이드 아웃 연출</em></p>
 </div>
 
 - 🎮 **메뉴 변화**: 이어하기 버튼만 남은 미니멀한 메뉴
 - 🔄 **세이브 리셋**: 자동으로 새로운 게임 경험 시작
 - 🌅 **페이드 연출**: 부드러운 화면 전환과 감성적 자막
-
-<p align="center"><em>게임 재실행 시 이어하기 버튼만 남고, 이어하기 선택 시 세이브 파일 리셋 후 자막과 페이드 아웃 연출</em></p>
 
 ---
 
